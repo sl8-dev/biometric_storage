@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/vova/Documents/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/vova/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/vova/Documents/biometric_storage-main/example/android/app/.cxx/RelWithDebInfo/2y5n4y4m/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/vova/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/vova/Documents/biometric_storage-main/example/android/app/.cxx/RelWithDebInfo/2y5n4y4m/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

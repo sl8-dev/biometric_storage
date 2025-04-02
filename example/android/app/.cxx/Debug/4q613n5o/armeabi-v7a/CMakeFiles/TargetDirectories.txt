@@ -1,0 +1,2 @@
+/Users/vova/Documents/biometric_storage-main/example/android/app/.cxx/Debug/4q613n5o/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/vova/Documents/biometric_storage-main/example/android/app/.cxx/Debug/4q613n5o/armeabi-v7a/CMakeFiles/rebuild_cache.dir

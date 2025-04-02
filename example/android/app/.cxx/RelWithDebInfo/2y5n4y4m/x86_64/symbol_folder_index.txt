@@ -1,0 +1,1 @@
+/Users/vova/Documents/biometric_storage-main/example/build/app/intermediates/cxx/RelWithDebInfo/2y5n4y4m/obj/x86_64
